@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**nurealammiaji/nurealammiaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Nure Alam Miaji</h1>
 <h3 align="center">An IT Enthusiast from Bangladesh</h3>
 
@@ -50,4 +33,19 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurealammiaji&show_icons=true&locale=en" alt="nurealammiaji" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurealammiaji&" alt="nurealammiaji" /></p>
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nurealammiaji)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nurealammiaji/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nurealammiaji)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nuealammiaji)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurealammiaji)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nurealammiaji&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nurealammiaji)  
+
+![GitHub metrics](https://metrics.lecoq.io/nurealammiaji)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nurealammiaji)  
+
+![Profile views](https://gpvc.arturio.dev/nurealammiaji)  
 
