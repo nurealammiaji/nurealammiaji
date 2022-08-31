@@ -1,5 +1,5 @@
 <div align="center">
-<img height="300" src="https://nurealammiaji.github.io/developer-portfolio/images/my-bg.png"  />
+<img height="300" src="https://nurealammiaji.github.io/developer-portfolio/images/my-bg2.png"  />
 </div>
 
 <h1 align="center">Nure Alam Miaji</h1>
@@ -18,13 +18,15 @@
 
 - 📝 I regularly write articles on [https://nurealammiaji.blogspot.com](https://nurealammiaji.blogspot.com)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, Linux, WordPress, PhotoShop**
 
 - 📫 How to reach me **nurealam.me@gmail.com**
 
 <br>
 
-<h2 align="center">Skills & Technologies <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<h2 align="center"> Skills & Technologies </h2>
+
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -36,11 +38,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="42" alt="wordpress logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
 </div>
+
 <br>
 
 ###
 
-<h2 align="center"><img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height=40px> Connect with me</h2>
+<h2 align="center"> Connect with Me </h2>
+
+<br>
 
 <div align="center">
   <a href="https://linkedin.com/in/nurealammiaji" target="_blank">
@@ -62,24 +67,55 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
 <br>
 
 ###
 
 <h2 align="center"> My GitHub Stats </h2>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=nurealammiaji" height="150" alt="stats graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=nurealammiaji" height="150" alt="languages graph"  />
+  
 </div>
+
+<br>
+
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=nurealammiaji&theme=dracula&hide_border=false)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=nurealammiaji&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
+  
+</div>
+
 <br>
 
 ###
 
-<h2 align="left"> ✍️ Dev Quotes </h2>
+<h2 align="center"> ✍️ Dev Quotes </h2>
+
+<br>
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
+
 ---
 
-![](https://visitcount.itsvg.in/api?id=nurealammiaji&icon=0&color=0)
+<div align="center">
+
+![](https://visitcount.itsvg.in/api?id=nurealammiaji&label=Profile%20Views&color=10&icon=5&pretty=false)
+
+</div>
