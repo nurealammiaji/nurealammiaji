@@ -1,11 +1,8 @@
-<!--
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+Assalamualaikum+!;My+name+is+Nure+Alam+Miaji;I+am+an+IT+Enthusiast;Feel+free+to+get+in+touch+%F0%9F%98%84;Nice+to+Meet+You+!)
+
 <div align="center">
 <img height="300" src="https://nurealammiaji.github.io/developer-portfolio/images/my-bg2.png"  />
 </div>
--->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Assalamualaikum+!+%F0%9F%91%8B;My+name+is+Nure+Alam+Miaji;I+am+an+IT+Enthusiast;Feel+free+to+get+in+touch+%F0%9F%98%84;Nice+to+Meet+You+!)
-
-<br>
 
 <h1 align="center">Nure Alam Miaji</h1>
 <h3 align="center">An IT Enthusiast from Bangladesh</h3>
