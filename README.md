@@ -1,11 +1,11 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Assalamu+Alaikum+!;My+name+is+Nure+Alam+Miaji.;I+am+a+Tech+Enthusiast.;Feel+free+to+get+in+touch.;Nice+to+meet+you+!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Assalamu+Alaikum+!;My+name+is+Nure+Alam+Miaji.;I+am+a+Web+Developer.;Feel+free+to+get+in+touch.;Nice+to+meet+you+!)
 
 <div align="center">
 <img height="300" src="https://nurealammiaji.github.io/developer-portfolio/images/my-bg2.png"  />
 </div>
 
 <h1 align="center">Nure Alam Miaji</h1>
-<h3 align="center">A Tech Enthusiast from Bangladesh</h3>
+<h3 align="center">A Web Developer from Bangladesh</h3>
 
 <br>
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://nurealammiaji.blogspot.com](https://nurealammiaji.blogspot.com)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Node, Express, MongoDB, Firebase, Git, Linux, WordPress, PhotoShop**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Node, Express, MongoDB, Firebase, JWT, Git, Linux, WordPress, PhotoShop**
 
 - 📫 How to reach me **nurealam.miaji@gmail.com**
 
@@ -45,6 +45,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
+  <img width="1" />
+  <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" height="50" alt="jwt logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="1" />
@@ -115,14 +117,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nurealammiaji&theme=dracula&hide_border=false)
 
-</div>
-
-<br>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurealammiaji&radius=16&theme=react&area=true&order=3" height="300" alt="activity-graph graph"  />
-  
 </div>
 
 <br>
