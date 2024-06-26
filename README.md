@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Nure Alam Miaji</h1>
-<h3 align="center">A Web Developer from Bangladesh</h3>
+<h3 align="center">Web Developer</h3>
 
 <br>
 
