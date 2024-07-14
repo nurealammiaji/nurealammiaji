@@ -19,7 +19,7 @@ const Navbar = () => {
 
     return (
         <nav>
-            <div className="navbar bg-base-100">
+            <div className="navbar bg-neutral">
                 <div className="navbar-start">
                     {/* Mobile Menu */}
                     <details className="dropdown">
@@ -43,7 +43,7 @@ const Navbar = () => {
                             {links}
                         </ul>
                     </details>
-                    <NavLink to={"/"} className="btn btn-ghost md:text-xl">Nure Alam Miaji</NavLink>
+                    <NavLink to={"/"} className="btn btn-ghost text-secondary md:text-xl">Nure Alam Miaji</NavLink>
                 </div>
                 {/* Desktop Menu */}
                 <div className="hidden navbar-center lg:flex">
@@ -52,7 +52,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <Link to={"https://www.fiverr.com/nurealammiaji"} className="btn">Hire Me</Link>
+                    <Link to={"https://www.fiverr.com/nurealammiaji"} className="btn btn-secondary btn-sm">Hire Me</Link>
                 </div>
             </div>
         </nav>
