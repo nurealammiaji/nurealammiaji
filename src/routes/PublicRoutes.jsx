@@ -11,18 +11,6 @@ const PublicRoutes = createBrowserRouter([
                 path: "/",
                 element: <Home />
             },
-            {
-                path: "/about",
-                element: <div><h1>About</h1></div>
-            },
-            {
-                path: "/projects",
-                element: <div><h1>Projects</h1></div>
-            },
-            {
-                path: "/contact",
-                element: <div><h1>Contact</h1></div>
-            },
         ]
     }
 ])

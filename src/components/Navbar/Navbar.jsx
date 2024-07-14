@@ -3,18 +3,18 @@ import { Link, NavLink } from "react-router-dom";
 const Navbar = () => {
 
     const links = <>
-        <li><NavLink to={"/"}>Home</NavLink></li>
-        <li><NavLink to={"/about"}>About</NavLink></li>
+        <li><Link to={"/"}>Home</Link></li>
+        <li><Link to={"/#about"}>About</Link></li>
         <li>
             <details>
                 <summary>Projects</summary>
-                <ul className="p-2">
-                    <li><Link to={"/projects#1"}>Project 1</Link></li>
-                    <li><Link to={"/projects#2"}>Project 2</Link></li>
+                <ul className="w-full p-2 lg:w-28">
+                    <li><Link to={"/#project1"}>Project 1</Link></li>
+                    <li><Link to={"/#project2"}>Project 2</Link></li>
                 </ul>
             </details>
         </li>
-        <li><NavLink to={"/contact"}>Contact</NavLink></li>
+        <li><Link to={"/#contact"}>Contact</Link></li>
     </>
 
     return (
@@ -26,7 +26,7 @@ const Navbar = () => {
                         <summary tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
-                                className="h-5 w-5"
+                                className="w-5 h-5"
                                 fill="none"
                                 viewBox="0 0 24 24"
                                 stroke="currentColor">
@@ -39,15 +39,15 @@ const Navbar = () => {
                         </summary>
                         <ul
                             tabIndex={0}
-                            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
+                            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-40 p-2 shadow">
                             {links}
                         </ul>
                     </details>
                     <NavLink to={"/"} className="btn btn-ghost md:text-xl">Nure Alam Miaji</NavLink>
                 </div>
                 {/* Desktop Menu */}
-                <div className="navbar-center hidden lg:flex">
-                    <ul className="menu menu-horizontal px-1">
+                <div className="hidden navbar-center lg:flex">
+                    <ul className="px-1 menu menu-horizontal">
                         {links}
                     </ul>
                 </div>
