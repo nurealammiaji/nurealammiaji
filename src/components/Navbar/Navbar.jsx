@@ -43,7 +43,7 @@ const Navbar = () => {
                             {links}
                         </ul>
                     </details>
-                    <NavLink to={"/"} className="btn btn-ghost text-secondary md:text-xl">Nure Alam Miaji</NavLink>
+                    <NavLink to={"/"} className="hidden my-auto text-xl font-semibold sm:block text-secondary">Nure Alam Miaji</NavLink>
                 </div>
                 {/* Desktop Menu */}
                 <div className="hidden navbar-center lg:flex">
@@ -55,6 +55,7 @@ const Navbar = () => {
                     <Link to={"https://www.fiverr.com/nurealammiaji"} className="btn btn-secondary btn-sm">Hire Me</Link>
                 </div>
             </div>
+            <br /><br />
         </nav>
     );
 };

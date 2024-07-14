@@ -4,6 +4,7 @@ import photo from "/nurealammiaji.jpg";
 const Footer = () => {
     return (
         <div>
+            <br /><br />
             <footer className="p-10 footer footer-center bg-neutral">
                 <aside>
                     <figure className="w-[50px] h-[50px]">
