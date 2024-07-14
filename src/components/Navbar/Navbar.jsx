@@ -3,18 +3,18 @@ import { Link, NavLink } from "react-router-dom";
 const Navbar = () => {
 
     const links = <>
-        <li><Link to={"/"}>Home</Link></li>
-        <li><Link to={"/#about"}>About</Link></li>
+        <li className="hover:text-secondary"><Link to={"/"}>Home</Link></li>
+        <li className="hover:text-secondary"><Link to={"/#about"}>About</Link></li>
         <li>
             <details>
-                <summary>Projects</summary>
+                <summary className="hover:text-secondary">Projects</summary>
                 <ul className="w-full p-2 lg:w-28">
-                    <li><Link to={"/#project1"}>Project 1</Link></li>
-                    <li><Link to={"/#project2"}>Project 2</Link></li>
+                    <li className="hover:text-secondary"><Link to={"/#project1"}>Project 1</Link></li>
+                    <li className="hover:text-secondary"><Link to={"/#project2"}>Project 2</Link></li>
                 </ul>
             </details>
         </li>
-        <li><Link to={"/#contact"}>Contact</Link></li>
+        <li className="hover:text-secondary"><Link to={"/#contact"}>Contact</Link></li>
     </>
 
     return (

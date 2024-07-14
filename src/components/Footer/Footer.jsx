@@ -8,7 +8,7 @@ const Footer = () => {
             <footer className="p-10 footer footer-center bg-neutral">
                 <aside>
                     <figure className="w-[50px] h-[50px]">
-                        <img className="rounded-full" src={photo} alt="" />
+                        <img className="rounded-full ring ring-secondary" src={photo} alt="" />
                     </figure>
                     <p className="mt-5 text-xl font-bold text-secondary"> Nure Alam Miaji</p>
                     <p>Web Developer</p>

@@ -10,7 +10,7 @@ const Hero = () => {
             <div className="my-20">
                 <p className="text-2xl">Hi, I am</p>
                 <h1 className="my-10 text-5xl font-bold">Nure Alam Miaji</h1>
-                <p className="text-3xl">I am a <span className="font-medium text-secondary"><Typewriter words={["Web Developer", "Tech Enthusiast"]} cursor cursorStyle={"_"} cursorColor={"white"} cursorBlinking loop typeSpeed={150} deleteSpeed={50} delaySpeed={1500} /></span></p>
+                <p className="text-3xl">I am a <span className="font-medium text-secondary"><Typewriter words={["Web Developer", "Tech Enthusiast"]} cursor cursorStyle={"_"} cursorColor={"white"} cursorBlinking loop typeSpeed={100} deleteSpeed={50} delaySpeed={1500} /></span></p>
             </div>
         </div>
     );
