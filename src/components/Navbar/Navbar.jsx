@@ -39,20 +39,20 @@ const Navbar = () => {
                         </summary>
                         <ul
                             tabIndex={0}
-                            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-40 p-2 shadow">
+                            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-40 p-2 shadow font-medium">
                             {links}
                         </ul>
                     </details>
-                    <NavLink to={"/"} className="hidden my-auto text-xl font-semibold sm:block text-secondary">Nure Alam Miaji</NavLink>
+                    <NavLink to={"/"} className="hidden my-auto text-xl font-semibold text-transparent sm:block bg-gradient-to-r hover:from-green-400 hover:to-blue-500 from-pink-500 to-yellow-500 bg-clip-text">Nure Alam Miaji</NavLink>
                 </div>
                 {/* Desktop Menu */}
                 <div className="hidden navbar-center lg:flex">
-                    <ul className="px-1 menu menu-horizontal">
+                    <ul className="px-1 font-medium menu menu-horizontal">
                         {links}
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <Link to={"https://www.fiverr.com/nurealammiaji"} className="btn btn-secondary btn-sm">Hire Me</Link>
+                    <Link to={"https://www.fiverr.com/nurealammiaji"} className="transition-colors ease-in-out delay-0 btn btn-sm bg-gradient-to-r hover:from-green-400 hover:to-blue-500 from-pink-500 to-yellow-500">Hire Me</Link>
                 </div>
             </div>
             <br /><br />

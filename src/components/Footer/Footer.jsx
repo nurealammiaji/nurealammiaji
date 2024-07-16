@@ -7,10 +7,10 @@ const Footer = () => {
             <br /><br />
             <footer className="p-10 footer footer-center bg-neutral">
                 <aside>
-                    <figure className="w-[50px] h-[50px]">
-                        <img className="rounded-full ring ring-secondary" src={photo} alt="" />
+                    <figure className="w-[50px] h-[50px] rounded-full bg-gradient-to-r from-pink-500 to-yellow-500 p-1">
+                        <img className="rounded-full" src={photo} alt="" />
                     </figure>
-                    <p className="mt-5 text-xl font-bold text-secondary"> Nure Alam Miaji</p>
+                    <p className="mt-5 text-xl font-bold text-transparent bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text"> Nure Alam Miaji</p>
                     <p>Web Developer</p>
                 </aside>
                 <nav>
@@ -51,7 +51,7 @@ const Footer = () => {
                     </div>
                 </nav>
             </footer>
-            <footer className="p-2 bg-secondary">
+            <footer className="p-2 bg-gradient-to-r from-pink-500 to-yellow-500">
                 <p className="text-black">Copyright © {new Date().getFullYear()} - All right reserved</p>
             </footer>
         </div>
