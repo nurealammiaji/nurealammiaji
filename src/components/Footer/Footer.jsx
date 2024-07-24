@@ -11,7 +11,7 @@ const Footer = () => {
                         <img className="rounded-full" src={photo} alt="" />
                     </figure>
                     <p className="mt-5 text-xl font-bold text-transparent bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text"> Nure Alam Miaji</p>
-                    <p>Web Developer</p>
+                    <p className="font-medium text-transparent bg-gradient-to-r from-green-400 to-blue-400 bg-clip-text">Web Developer</p>
                 </aside>
                 <nav>
                     <div className="grid grid-flow-col gap-4">
@@ -51,7 +51,7 @@ const Footer = () => {
                     </div>
                 </nav>
             </footer>
-            <footer className="p-2 bg-gradient-to-r from-pink-500 to-yellow-500">
+            <footer className="p-2 bg-gradient-to-r from-pink-500 to-yellow-500 rounded-b-xl">
                 <p className="text-black">Copyright © {new Date().getFullYear()} - All right reserved</p>
             </footer>
         </div>
