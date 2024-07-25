@@ -1,39 +1,62 @@
+import { TbBriefcase, TbSchool, TbStar } from 'react-icons/tb';
 import SectionHeader from '../SectionHeader/SectionHeader';
-import Tilt from 'react-parallax-tilt';
+import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
+import 'react-vertical-timeline-component/style.min.css';
 
 const Education = () => {
     return (
         <div id="education">
             <SectionHeader header={"Background"} message={"My Education"} />
             <br />
-            <div className="items-center justify-center [&>*]:my-5 md:[&>*]:my-0 md:flex gap-5">
-                <Tilt>
-                    <div className="p-4 text-left shadow shadow-secondary rounded-xl bg-neutral">
-                        {/* <PiAppStoreLogoBold className="text-5xl" /> */}
-                        <h4 className="mt-6 text-2xl font-semibold text-transparent bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text">B.Sc (Hon's) in IT</h4>
-                        <p className="mt-5 font-semibold text-slate-300/90">2024, CGPA: 3.45 / 4</p>
-                        <p className="mt-4 text-xl font-medium">Azteca University (Universidad Azteca)</p>
-                        <p className="mt-3 text-slate-400">San Antonio, Chalco, Mexico</p>
-                    </div>
-                </Tilt>
-                <Tilt>
-                    <div className="p-4 text-left shadow shadow-secondary rounded-xl bg-neutral md:min-w-[300px]">
-                        {/* <PiEdu className="text-5xl" /> */}
-                        <h4 className="mt-6 text-2xl font-semibold text-transparent bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text">Diploma in Engineering</h4>
-                        <p className="mt-5 font-semibold text-slate-300/90">2019, CGPA: 3.13 / 4</p>
-                        <p className="mt-4 text-xl font-medium">Chattogram Polytechnic Institute</p>
-                        <p className="mt-3 text-slate-400">Nasirabad, Chattogram, Bangladesh</p>
-                    </div>
-                </Tilt>
-                <Tilt>
-                    <div className="p-4 text-left shadow shadow-secondary rounded-xl bg-neutral">
-                        {/* <PiAppStoreLogoBold className="text-5xl" /> */}
-                        <h4 className="mt-6 text-2xl font-semibold text-transparent bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text">Dakhil / SSC</h4>
-                        <p className="mt-5 font-semibold text-slate-300/90">2014, GPA: 5.00 / 5</p>
-                        <p className="mt-4 text-xl font-medium">Bharella Shah Israil Kamil Madrasah</p>
-                        <p className="mt-3 text-slate-400">Bharella, Cumilla, Bangladesh</p>
-                    </div>
-                </Tilt>
+            <div>
+                <VerticalTimeline>
+                    <VerticalTimelineElement
+                        className="vertical-timeline-element--education"
+                        contentStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+                        contentArrowStyle={{ borderRight: '7px solid  rgb(233, 30, 99)' }}
+                        date="2024"
+                        iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+                        icon={<TbSchool />}
+                    >
+                        <h4 className="text-2xl font-bold vertical-timeline-element-title">BSc (Hons) in IT</h4>
+                        <br />
+                        <h3 className="text-lg font-medium vertical-timeline-element-subtitle">Azteca University - International Programs</h3>
+                        <small>San Antonio, Chalco, Mexico</small>
+                        <p>CGPA: 3.45 / 4</p>
+                    </VerticalTimelineElement>
+                    <VerticalTimelineElement
+                        className="vertical-timeline-element--education"
+                        contentStyle={{ background: 'blueviolet', color: '#fff' }}
+                        contentArrowStyle={{ borderRight: '7px solid blueviolet' }}
+                        date="2019"
+                        iconStyle={{ background: 'blueviolet', color: '#fff' }}
+                        icon={<TbSchool />}
+                    >
+                        <h4 className="text-2xl font-bold vertical-timeline-element-title">Diploma in Engineering</h4>
+                        <br />
+                        <h3 className="text-lg font-medium vertical-timeline-element-subtitle">Chittagong Polytechnic Institute</h3>
+                        <small>Nasirabad, Chittagong, Bangladesh</small>
+                        <p>CGPA: 3.13 / 4</p>
+                    </VerticalTimelineElement>
+                    <VerticalTimelineElement
+                        className="vertical-timeline-element--education"
+                        contentStyle={{ background: 'teal', color: '#fff' }}
+                        contentArrowStyle={{ borderRight: '7px solid teal' }}
+                        date="2014"
+                        iconStyle={{ background: 'teal', color: '#fff' }}
+                        icon={<TbSchool />}
+                    >
+                        <h4 className="text-2xl font-bold vertical-timeline-element-title">Dakhil / SSC</h4>
+                        <br />
+                        <h3 className="text-lg font-medium vertical-timeline-element-subtitle">Bharella Shah Israil Kamil Madrasah</h3>
+                        <small>Bharella, Cumilla, Bangladesh</small>
+                        <p>GPA: 5.00 / 5</p>
+                    </VerticalTimelineElement>
+                    {/* <VerticalTimelineElement
+                        iconStyle={{ background: 'rgb(16, 204, 82)', color: '#fff' }}
+                        icon={<TbStar />}
+                    /> */}
+                </VerticalTimeline>
             </div>
         </div>
     );

@@ -19,6 +19,7 @@
     "react-parallax-tilt": "^1.7.233",
     "react-router-dom": "^6.24.0",
     "react-simple-typewriter": "^5.0.1",
+    "react-vertical-timeline-component": "^3.6.0",
     "sort-by": "^1.2.0",
     "swiper": "^11.1.7"
   },
