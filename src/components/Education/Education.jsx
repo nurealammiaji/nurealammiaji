@@ -15,6 +15,7 @@ const Education = () => {
                         contentStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
                         contentArrowStyle={{ borderRight: '7px solid  rgb(233, 30, 99)' }}
                         date="2024"
+                        dateClassName='text-left'
                         iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
                         icon={<TbSchool />}
                     >
@@ -43,6 +44,7 @@ const Education = () => {
                         contentStyle={{ background: 'teal', color: '#fff' }}
                         contentArrowStyle={{ borderRight: '7px solid teal' }}
                         date="2014"
+                        dateClassName='text-left'
                         iconStyle={{ background: 'teal', color: '#fff' }}
                         icon={<TbSchool />}
                     >
