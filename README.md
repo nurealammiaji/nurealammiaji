@@ -5,11 +5,11 @@
 </div>
 
 <h1 align="center">Nure Alam Miaji</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Web App Developer</h3>
 
 <br>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nurealammiaji](https://github.com/nurealammiaji?tab=repositories)
 

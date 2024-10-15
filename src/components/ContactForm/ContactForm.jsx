@@ -104,7 +104,7 @@ const ContactForm = () => {
             </div>
             <br />
             <div className="mt-6 form-control">
-                <button className="text-lg btn bg-gradient-to-r from-pink-500 to-yellow-500 hover:to-blue-400 hover:from-green-400" type="submit">Send</button>
+                <button className="text-lg btn bg-gradient-to-r to-blue-400 from-green-400" type="submit">Send</button>
             </div>
         </form>
     );
