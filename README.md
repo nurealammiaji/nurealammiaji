@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Assalamu+Alaikum+!;My+name+is+Nure+Alam+Miaji.;I+am+a+Web+Developer.;Feel+free+to+get+in+touch.;Nice+to+meet+you+!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Assalamu+Alaikum+!;My+name+is+Nure+Alam+Miaji.;I+am+a+Web+App+Developer.;Feel+free+to+get+in+touch.;Nice+to+meet+you+!)
 
 <div align="center">
 <img height="300" src="https://nurealammiaji.github.io/developer-portfolio/images/my-bg2.png"  />
