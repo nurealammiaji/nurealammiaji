@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://nurealammiaji.blogspot.com](https://nurealammiaji.blogspot.com)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Node, Express, MongoDB, Firebase, JWT, Git, Linux, WordPress, PhotoShop**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Node, Express, MongoDB, Firebase, JWT, Mongoose, Git, Linux**
 
 - 📫 How to reach me **nurealam.miaji@gmail.com**
 
@@ -48,6 +48,8 @@
   <img width="1" />
   <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" height="50" alt="jwt logo"  />
   <img width="1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="50" alt="mongoose logo"  />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
@@ -55,10 +57,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="wordpress logo"  />
 </div>
 
 ###
