@@ -46,7 +46,7 @@
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
   <img width="1" />
-  <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" height="50" alt="jwt logo"  />
+  <img src="https://nurealammiaji.vercel.app/assets/jwt-Bn3qD3sq.png" height="50" alt="jwt logo"  />
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="50" alt="mongoose logo"  />
   <img width="1" />
