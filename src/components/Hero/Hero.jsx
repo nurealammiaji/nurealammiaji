@@ -1,11 +1,14 @@
 import photo from "/nurealammiaji.jpg";
 import { Typewriter } from 'react-simple-typewriter';
+import Tilt from 'react-parallax-tilt';
 
 const Hero = () => {
     return (
         <div>
-            <figure className="w-[250px] md:h-[250px] mt-12 mx-auto rounded-full bg-gradient-to-r from-pink-500 to-yellow-500 p-2">
-                <img className="rounded-full" src={photo} alt="Photo of Nure Alam Miaji" />
+            <figure className="w-[250px] md:h-[250px] mt-10 mx-auto rounded-full">
+                <Tilt>
+                    <img className="p-2 rounded-full bg-gradient-to-r from-pink-500 to-yellow-500 hover:from-green-400 hover:to-blue-400" src={photo} alt="Photo of Nure Alam Miaji" />
+                </Tilt>
             </figure>
             <div className="mt-12">
                 <p className="text-2xl">Hi, I am</p>

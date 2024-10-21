@@ -1,4 +1,4 @@
-import { TbBriefcase, TbSchool, TbStar } from 'react-icons/tb';
+import { TbSchool, TbStar } from 'react-icons/tb';
 import SectionHeader from '../SectionHeader/SectionHeader';
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';

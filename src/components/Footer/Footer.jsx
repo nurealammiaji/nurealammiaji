@@ -6,14 +6,14 @@ const Footer = () => {
         <div>
             <br /><br />
             <footer className="p-10 footer footer-center bg-neutral">
-                <aside>
+                <aside className="my-5">
                     <figure className="w-[50px] h-[50px] rounded-full bg-gradient-to-r from-pink-500 to-yellow-500 p-1">
                         <img className="rounded-full" src={photo} alt="" />
                     </figure>
                     <p className="mt-5 text-xl font-bold text-transparent bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text"> Nure Alam Miaji</p>
-                    <p className="font-medium text-transparent bg-gradient-to-r from-green-400 to-blue-400 bg-clip-text">Web Developer</p>
+                    <p className="font-medium text-transparent bg-gradient-to-r from-green-400 to-blue-400 bg-clip-text">Web App Developer</p>
                 </aside>
-                <nav>
+                {/* <nav>
                     <div className="grid grid-flow-col gap-4">
                         <Link className="hover:text-blue-300" to={"https://www.twitter.com/nurealammiaji"}>
                             <svg
@@ -49,7 +49,7 @@ const Footer = () => {
                             </svg>
                         </Link>
                     </div>
-                </nav>
+                </nav> */}
             </footer>
             <footer className="p-2 bg-gradient-to-r from-pink-500 to-yellow-500 rounded-b-xl">
                 <p className="text-black">Copyright © {new Date().getFullYear()} - All right reserved</p>
