@@ -8,7 +8,7 @@ const Contact = () => {
             <br />
             <div className="p-10 mx-auto shadow shadow-violet-300 md:w-3/4 rounded-xl bg-neutral glass">
                 <div className="mb-20">
-                    <div className="w-3/6 mx-auto text-2xl font-semibold text-transparent divider bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text">Social Media</div>
+                    <div className="mx-auto text-2xl font-semibold text-transparent sm:w-3/6 divider bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text">Social Links</div>
                 </div>
                 <div className="flex flex-wrap items-center justify-center gap-10">
                     <Tilt>

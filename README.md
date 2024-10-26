@@ -119,7 +119,6 @@
 
 <br>
 
-
 ###
 
 <h2 align="center"> ✍️ Dev Quotes </h2>
@@ -142,4 +141,3 @@
 </div>
 
 ###
-
