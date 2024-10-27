@@ -28,9 +28,9 @@ const Projects = () => {
                             />
                         </figure>
                         <div className="mt-8">
-                            <p><span className="mr-5 text-lg font-bold">Frontend:</span> <a className="font-semibold hover:text-info" href="https://chromacraftbd.web.app">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/chroma-craft-client">Code Repo</a></p>
+                            <p><span className="mr-5 text-lg font-bold">Frontend:</span> <a className="font-semibold hover:text-info" href="https://chromacraftbd.web.app" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/chroma-craft-client" target="_blank">Code Repo</a></p>
                             <hr className="mx-auto my-5 sm:w-10/12" />
-                            <p><span className="mr-5 text-lg font-bold">Backend:</span> <a className="font-semibold hover:text-info" href="https://chroma-craft-server.vercel.app/">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/chroma-craft-server">Code Repo</a></p>
+                            <p><span className="mr-5 text-lg font-bold">Backend:</span> <a className="font-semibold hover:text-info" href="https://chroma-craft-server.vercel.app/" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/chroma-craft-server" target="_blank">Code Repo</a></p>
                         </div>
                     </div>
                     <div className="p-5 border shadow sm:mt-0 rounded-2xl glass shadow-violet-300">
@@ -49,9 +49,9 @@ const Projects = () => {
                             />
                         </figure>
                         <div className="mt-8">
-                            <p><span className="mr-5 text-lg font-bold">Frontend:</span> <a className="font-semibold hover:text-info" href="https://toycornerbd.web.app/">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/toy-corner-client">Code Repo</a></p>
+                            <p><span className="mr-5 text-lg font-bold">Frontend:</span> <a className="font-semibold hover:text-info" href="https://toycornerbd.web.app/" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/toy-corner-client" target="_blank">Code Repo</a></p>
                             <hr className="mx-auto my-5 sm:w-10/12" />
-                            <p><span className="mr-5 text-lg font-bold">Backend:</span> <a className="font-semibold hover:text-info" href="https://toy-corner-server-bd.vercel.app/">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/toy-corner-server">Code Repo</a></p>
+                            <p><span className="mr-5 text-lg font-bold">Backend:</span> <a className="font-semibold hover:text-info" href="https://toy-corner-server-bd.vercel.app/" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/toy-corner-server" target="_blank">Code Repo</a></p>
                         </div>
                     </div>
                     <div className="p-5 border shadow sm:mt-0 rounded-2xl glass shadow-violet-300">
@@ -70,9 +70,9 @@ const Projects = () => {
                             />
                         </figure>
                         <div className="mt-8">
-                            <p><span className="mr-5 text-lg font-bold">Frontend:</span> <a className="font-semibold hover:text-info" href="https://recipe-haven-bd.web.app/">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/recipe-haven-client">Code Repo</a></p>
+                            <p><span className="mr-5 text-lg font-bold">Frontend:</span> <a className="font-semibold hover:text-info" href="https://recipe-haven-bd.web.app/" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/recipe-haven-client" target="_blank">Code Repo</a></p>
                             <hr className="mx-auto my-5 sm:w-10/12" />
-                            <p><span className="mr-5 text-lg font-bold">Backend:</span> <a className="font-semibold hover:text-info" href="https://recipe-haven-server-bd.vercel.app/">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/recipe-haven-server">Code Repo</a></p>
+                            <p><span className="mr-5 text-lg font-bold">Backend:</span> <a className="font-semibold hover:text-info" href="https://recipe-haven-server-bd.vercel.app/" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/recipe-haven-server" target="_blank">Code Repo</a></p>
                         </div>
                     </div>
                     <div className="p-5 border shadow sm:mt-0 rounded-2xl glass shadow-violet-300">
@@ -91,9 +91,9 @@ const Projects = () => {
                             />
                         </figure>
                         <div className="mt-8">
-                            <p><span className="mr-5 text-lg font-bold">Frontend:</span> <a className="font-semibold hover:text-info" href="https://auto-repair-bd.web.app/">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/auto-repair-client">Code Repo</a></p>
+                            <p><span className="mr-5 text-lg font-bold">Frontend:</span> <a className="font-semibold hover:text-info" href="https://auto-repair-bd.web.app/" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/auto-repair-client" target="_blank">Code Repo</a></p>
                             <hr className="mx-auto my-5 sm:w-10/12" />
-                            <p><span className="mr-5 text-lg font-bold">Backend:</span> <a className="font-semibold hover:text-info" href="https://auto-repair-server.vercel.app/">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/auto-repair-server">Code Repo</a></p>
+                            <p><span className="mr-5 text-lg font-bold">Backend:</span> <a className="font-semibold hover:text-info" href="https://auto-repair-server.vercel.app/" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/auto-repair-server" target="_blank">Code Repo</a></p>
                         </div>
                     </div>
                 </div>
