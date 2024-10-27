@@ -36,6 +36,11 @@ const Contact = () => {
                             <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
                         </a>
                     </Tilt>
+                    <Tilt>
+                        <a href="https://github.com/nurealammiaji" target="_blank">
+                            <img className="bg-white rounded-full" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="52" height="40" alt="github logo" />
+                        </a>
+                    </Tilt>
                 </div>
             </div>
             <br /><br />
