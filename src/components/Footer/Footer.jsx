@@ -7,7 +7,7 @@ const Footer = () => {
             <br /><br />
             <footer className="p-10 footer footer-center bg-neutral">
                 <aside className="my-5">
-                    <figure className="w-[75px] h-[75px] rounded-full bg-gradient-to-r from-pink-500 to-yellow-500 p-1">
+                    <figure className="w-[75px] h-[75px] rounded-full bg-gradient-to-r from-green-400 to-blue-400 p-1">
                         <img className="rounded-full" src={photo} alt="" />
                     </figure>
                     <p className="mt-5 text-xl font-bold text-transparent bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text"> Nure Alam Miaji</p>
