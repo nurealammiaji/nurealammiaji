@@ -4,6 +4,7 @@ import chromaCraft from "../../assets/ChromaCraft.png";
 import toyCorner from "../../assets/ToyCorner.png";
 import recipeHaven from "../../assets/RecipeHaven.png";
 import autoRepair from "../../assets/AutoRepair.png";
+import LazyLoad from "react-lazyload";
 
 const Projects = () => {
     return (
@@ -18,14 +19,16 @@ const Projects = () => {
                             <p className="mt-5">An online craft learning platform</p>
                         </div>
                         <figure className="w-full h-[30rem] overflow-y-auto rounded-lg">
-                            <ImageZoom
-                                src={chromaCraft}
-                                alt="Chroma Craft"
-                                zoomScale={2}
-                                width="100%"
-                                height="100%"
-                                zoom={200}
-                            />
+                            <LazyLoad>
+                                <ImageZoom
+                                    src={chromaCraft}
+                                    alt="Chroma Craft"
+                                    zoomScale={2}
+                                    width="100%"
+                                    height="100%"
+                                    zoom={200}
+                                />
+                            </LazyLoad>
                         </figure>
                         <div className="mt-8">
                             <p><span className="mr-5 text-lg font-bold">Frontend:</span> <a className="font-semibold hover:text-info" href="https://chromacraftbd.web.app" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/chroma-craft-client" target="_blank">Code Repo</a></p>
@@ -39,14 +42,16 @@ const Projects = () => {
                             <p className="mt-5">An online toy shopping marketplace</p>
                         </div>
                         <figure className="w-full h-[30rem] overflow-y-auto rounded-lg">
-                            <ImageZoom
-                                src={toyCorner}
-                                alt="Toy Corner"
-                                zoomScale={2}
-                                width="100%"
-                                height="100%"
-                                zoom={200}
-                            />
+                            <LazyLoad>
+                                <ImageZoom
+                                    src={toyCorner}
+                                    alt="Toy Corner"
+                                    zoomScale={2}
+                                    width="100%"
+                                    height="100%"
+                                    zoom={200}
+                                />
+                            </LazyLoad>
                         </figure>
                         <div className="mt-8">
                             <p><span className="mr-5 text-lg font-bold">Frontend:</span> <a className="font-semibold hover:text-info" href="https://toycornerbd.web.app/" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/toy-corner-client" target="_blank">Code Repo</a></p>
@@ -60,14 +65,16 @@ const Projects = () => {
                             <p className="mt-5">An online recipe website</p>
                         </div>
                         <figure className="w-full h-[30rem] overflow-y-auto rounded-lg">
-                            <ImageZoom
-                                src={recipeHaven}
-                                alt="Recipe Haven"
-                                zoomScale={2}
-                                width="100%"
-                                height="100%"
-                                zoom={200}
-                            />
+                            <LazyLoad>
+                                <ImageZoom
+                                    src={recipeHaven}
+                                    alt="Recipe Haven"
+                                    zoomScale={2}
+                                    width="100%"
+                                    height="100%"
+                                    zoom={200}
+                                />
+                            </LazyLoad>
                         </figure>
                         <div className="mt-8">
                             <p><span className="mr-5 text-lg font-bold">Frontend:</span> <a className="font-semibold hover:text-info" href="https://recipe-haven-bd.web.app/" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/recipe-haven-client" target="_blank">Code Repo</a></p>
@@ -81,14 +88,16 @@ const Projects = () => {
                             <p className="mt-5">A car service booking website</p>
                         </div>
                         <figure className="w-full h-[30rem] overflow-y-auto rounded-lg">
-                            <ImageZoom
-                                src={autoRepair}
-                                alt="Auto Repair"
-                                zoomScale={2}
-                                width="100%"
-                                height="100%"
-                                zoom={200}
-                            />
+                            <LazyLoad>
+                                <ImageZoom
+                                    src={autoRepair}
+                                    alt="Auto Repair"
+                                    zoomScale={2}
+                                    width="100%"
+                                    height="100%"
+                                    zoom={200}
+                                />
+                            </LazyLoad>
                         </figure>
                         <div className="mt-8">
                             <p><span className="mr-5 text-lg font-bold">Frontend:</span> <a className="font-semibold hover:text-info" href="https://auto-repair-bd.web.app/" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/auto-repair-client" target="_blank">Code Repo</a></p>
