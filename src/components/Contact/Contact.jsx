@@ -1,3 +1,4 @@
+import LazyLoad from 'react-lazyload';
 import SectionHeader from '../SectionHeader/SectionHeader';
 import Tilt from 'react-parallax-tilt';
 
@@ -13,32 +14,44 @@ const Contact = () => {
                 <div className="flex flex-wrap items-center justify-center gap-10">
                     <Tilt>
                         <a href="https://www.linkedin.com/in/nurealammiaji" target="_blank">
-                            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+                            <LazyLoad>
+                                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+                            </LazyLoad>
                         </a>
                     </Tilt>
                     <Tilt>
                         <a href="https://www.facebook.com/nurealammiaji" target="_blank">
-                            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+                            <LazyLoad>
+                                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+                            </LazyLoad>
                         </a>
                     </Tilt>
                     <Tilt>
                         <a href="https://twitter.com/nurealammiaji" target="_blank">
-                            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+                            <LazyLoad>
+                                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+                            </LazyLoad>
                         </a>
                     </Tilt>
                     <Tilt>
                         <a href="mailto:nurealam.miaji@gmail.com">
-                            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+                            <LazyLoad>
+                                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+                            </LazyLoad>
                         </a>
                     </Tilt>
                     <Tilt>
                         <a href="https://t.me/nurealammiaji" target="_blank">
-                            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+                            <LazyLoad>
+                                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+                            </LazyLoad>
                         </a>
                     </Tilt>
                     <Tilt>
                         <a href="https://github.com/nurealammiaji" target="_blank">
-                            <img className="bg-white rounded-full" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="52" height="40" alt="github logo" />
+                            <LazyLoad>
+                                <img className="bg-white rounded-full" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="52" height="40" alt="github logo" />
+                            </LazyLoad>
                         </a>
                     </Tilt>
                 </div>

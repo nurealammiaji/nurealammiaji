@@ -1,16 +1,13 @@
 import photo from "/nurealammiaji.jpg";
 import { Typewriter } from 'react-simple-typewriter';
 import Tilt from 'react-parallax-tilt';
-import LazyLoad from "react-lazyload";
 
 const Hero = () => {
     return (
         <div>
             <figure className="w-[250px] md:h-[250px] mt-16 mx-auto rounded-full">
                 <Tilt>
-                    <LazyLoad>
-                        <img className="p-2 rounded-full bg-gradient-to-r from-pink-500 to-yellow-500 hover:from-green-400 hover:to-blue-400" src={photo} alt="Photo of Nure Alam Miaji" />
-                    </LazyLoad>
+                    <img className="p-2 rounded-full bg-gradient-to-r from-pink-500 to-yellow-500 hover:from-green-400 hover:to-blue-400" src={photo} alt="Photo of Nure Alam Miaji" />
                 </Tilt>
             </figure>
             <div className="mt-14">
