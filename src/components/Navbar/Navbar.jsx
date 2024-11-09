@@ -7,15 +7,6 @@ const Navbar = () => {
         <li className="hover:text-secondary"><a href={"/#projects"}>Projects</a></li>
         <li className="hover:text-secondary"><a href={"/#skills"}>Skills</a></li>
         <li className="hover:text-secondary"><a href={"/#education"}>Education</a></li>
-        {/* <li>
-            <details>
-                <summary className="hover:text-secondary">Projects</summary>
-                <ul className="w-full p-2 md:w-28 md:bg-neutral">
-                    <li className="hover:text-secondary"><a href={"/#project1"}>Project 1</a></li>
-                    <li className="hover:text-secondary"><a href={"/#project2"}>Project 2</a></li>
-                </ul>
-            </details>
-        </li> */}
         <li className="hover:text-secondary"><a href={"/#contact"}>Contact</a></li>
     </>
 
