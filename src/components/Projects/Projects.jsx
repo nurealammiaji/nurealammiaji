@@ -13,7 +13,7 @@ const Projects = () => {
             <br />
             <div>
                 <div className="grid gap-10 sm:grid-cols-2">
-                    <div className="p-5 border shadow rounded-2xl glass shadow-violet-300">
+                    <div className="p-5 border shadow rounded-2xl glass shadow-violet-300 hover:bg-violet-950">
                         <div className="mb-8">
                             <h3 className="text-2xl font-bold text-transparent bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text">Chroma Craft</h3>
                             <p className="mt-5">An online craft learning platform</p>
@@ -36,7 +36,7 @@ const Projects = () => {
                             <p><span className="mr-5 text-lg font-bold">Backend:</span> <a className="font-semibold hover:text-info" href="https://chroma-craft-server.vercel.app/" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/chroma-craft-server" target="_blank">Code Repo</a></p>
                         </div>
                     </div>
-                    <div className="p-5 border shadow sm:mt-0 rounded-2xl glass shadow-violet-300">
+                    <div className="p-5 border shadow sm:mt-0 rounded-2xl glass shadow-violet-300 hover:bg-violet-950">
                         <div className="mb-8">
                             <h3 className="text-2xl font-bold text-transparent bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text">Toy Corner</h3>
                             <p className="mt-5">An online toy shopping marketplace</p>
@@ -59,7 +59,7 @@ const Projects = () => {
                             <p><span className="mr-5 text-lg font-bold">Backend:</span> <a className="font-semibold hover:text-info" href="https://toy-corner-server-bd.vercel.app/" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/toy-corner-server" target="_blank">Code Repo</a></p>
                         </div>
                     </div>
-                    <div className="p-5 border shadow sm:mt-0 rounded-2xl glass shadow-violet-300">
+                    <div className="p-5 border shadow sm:mt-0 rounded-2xl glass shadow-violet-300 hover:bg-violet-950">
                         <div className="mb-8">
                             <h3 className="text-2xl font-bold text-transparent bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text">Recipe Haven</h3>
                             <p className="mt-5">An online recipe website</p>
@@ -82,7 +82,7 @@ const Projects = () => {
                             <p><span className="mr-5 text-lg font-bold">Backend:</span> <a className="font-semibold hover:text-info" href="https://recipe-haven-server-bd.vercel.app/" target="_blank">Live Link</a><span className="mx-3">||</span><a className="font-semibold hover:text-info" href="https://github.com/nurealammiaji/recipe-haven-server" target="_blank">Code Repo</a></p>
                         </div>
                     </div>
-                    <div className="p-5 border shadow sm:mt-0 rounded-2xl glass shadow-violet-300">
+                    <div className="p-5 border shadow sm:mt-0 rounded-2xl glass shadow-violet-300 hover:bg-violet-950">
                         <div className="mb-8">
                             <h3 className="text-2xl font-bold text-transparent bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text">Auto Repair</h3>
                             <p className="mt-5">A car service booking website</p>
@@ -107,7 +107,7 @@ const Projects = () => {
                     </div>
                 </div>
                 <div className="mt-14">
-                    <a href="https://github.com/nurealammiaji?tab=repositories" target="_blank" className="transition-colors ease-in-out delay-0 btn bg-gradient-to-r hover:from-green-400 hover:to-blue-500 from-pink-500 to-yellow-500">See All Projects</a>
+                    <a href="https://github.com/nurealammiaji?tab=repositories" target="_blank" className="text-lg transition-colors ease-in-out delay-0 btn bg-gradient-to-r hover:from-green-400 hover:to-blue-500 from-pink-500 to-yellow-500">See All Projects</a>
                 </div>
             </div>
         </div>
