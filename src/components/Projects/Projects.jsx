@@ -106,7 +106,7 @@ const Projects = () => {
                         </div>
                     </div>
                 </div>
-                <div className="mt-14">
+                <div className="mt-16">
                     <a href="https://github.com/nurealammiaji?tab=repositories" target="_blank" className="text-lg transition-colors ease-in-out delay-0 btn bg-gradient-to-r hover:from-green-400 hover:to-blue-500 from-pink-500 to-yellow-500">See All Projects</a>
                 </div>
             </div>

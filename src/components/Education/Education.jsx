@@ -23,7 +23,7 @@ const Education = () => {
                         <br />
                         <h3 className="text-lg font-medium vertical-timeline-element-subtitle">Azteca University - International Programs</h3>
                         <small>San Antonio, Chalco, Mexico</small>
-                        <p>CGPA: 3.45 / 4</p>
+                        {/* <p>CGPA: 3.45 / 4</p> */}
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
                         className="vertical-timeline-element--education"
@@ -37,7 +37,7 @@ const Education = () => {
                         <br />
                         <h3 className="text-lg font-medium vertical-timeline-element-subtitle">Chittagong Polytechnic Institute</h3>
                         <small>Nasirabad, Chittagong, Bangladesh</small>
-                        <p>CGPA: 3.13 / 4</p>
+                        {/* <p>CGPA: 3.13 / 4</p> */}
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
                         className="vertical-timeline-element--education"
@@ -52,7 +52,7 @@ const Education = () => {
                         <br />
                         <h3 className="text-lg font-medium vertical-timeline-element-subtitle">Bharella Shah Israil Kamil Madrasah</h3>
                         <small>Bharella, Cumilla, Bangladesh</small>
-                        <p>GPA: 5.00 / 5</p>
+                        {/* <p>GPA: 5.00 / 5</p> */}
                     </VerticalTimelineElement>
                     {/* <VerticalTimelineElement
                         iconStyle={{ background: 'rgb(16, 204, 82)', color: '#fff' }}

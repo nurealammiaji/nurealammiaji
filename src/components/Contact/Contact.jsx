@@ -7,7 +7,7 @@ const Contact = () => {
         <div id="contact">
             <SectionHeader header={"Keep in Touch"} message={"Connect Me"} />
             <br />
-            <div className="p-10 mx-auto shadow shadow-violet-300 md:w-3/4 rounded-xl bg-neutral glass">
+            <div className="p-10 mx-auto shadow shadow-violet-300 hover:bg-violet-950 md:w-3/4 rounded-xl bg-neutral glass">
                 <div className="mb-20">
                     <div className="mx-auto text-2xl font-semibold text-transparent sm:w-3/6 divider bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text">Social Links</div>
                 </div>
