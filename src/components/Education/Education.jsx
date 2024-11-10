@@ -51,7 +51,7 @@ const Education = () => {
                         <h4 className="text-2xl font-bold vertical-timeline-element-title">Dakhil / SSC</h4>
                         <br />
                         <h3 className="text-lg font-medium vertical-timeline-element-subtitle">Bharella Shah Israil Kamil Madrasah</h3>
-                        <small>Bharella, Cumilla, Bangladesh</small>
+                        <small>Burichang, Cumilla, Bangladesh</small>
                         {/* <p>GPA: 5.00 / 5</p> */}
                     </VerticalTimelineElement>
                     {/* <VerticalTimelineElement
