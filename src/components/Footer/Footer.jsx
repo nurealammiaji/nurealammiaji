@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <div>
             <br /><br />
-            <footer className="p-10 footer footer-center bg-neutral">
+            <footer className="p-10 footer footer-center bg-violet-950">
                 <aside className="my-5">
                     <figure className="w-[75px] h-[75px] rounded-full bg-gradient-to-r from-green-400 to-blue-400 p-1">
                         <img className="rounded-full" src={photo} alt="" />

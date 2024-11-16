@@ -12,7 +12,7 @@ const Navbar = () => {
 
     return (
         <nav>
-            <div className="px-3 rounded-t-xl navbar bg-neutral">
+            <div className="px-3 rounded-t-xl navbar bg-violet-950">
                 <div className="navbar-start">
                     {/* Mobile Menu */}
                     <details className="dropdown">
