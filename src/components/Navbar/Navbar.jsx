@@ -3,16 +3,16 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
 
     const links = <>
-        <li className="hover:text-secondary"><a href={"/#features"}>Features</a></li>
-        <li className="hover:text-secondary"><a href={"/#projects"}>Projects</a></li>
-        <li className="hover:text-secondary"><a href={"/#skills"}>Skills</a></li>
-        <li className="hover:text-secondary"><a href={"/#education"}>Education</a></li>
-        <li className="hover:text-secondary"><a href={"/#contact"}>Contact</a></li>
+        <li className="font-semibold hover:text-secondary"><a href={"/#features"}>Features</a></li>
+        <li className="font-semibold hover:text-secondary"><a href={"/#projects"}>Projects</a></li>
+        <li className="font-semibold hover:text-secondary"><a href={"/#skills"}>Skills</a></li>
+        <li className="font-semibold hover:text-secondary"><a href={"/#education"}>Education</a></li>
+        <li className="font-semibold hover:text-secondary"><a href={"/#contact"}>Contact</a></li>
     </>
 
     return (
         <nav>
-            <div className="px-3 rounded-t-xl navbar bg-violet-950">
+            <div className="z-50 px-3 bg-violet-950 rounded-t-xl navbar">
                 <div className="navbar-start">
                     {/* Mobile Menu */}
                     <details className="dropdown">
